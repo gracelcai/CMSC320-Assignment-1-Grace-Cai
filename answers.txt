@@ -10,3 +10,7 @@ Answer: Data science could be applied to investing. From previous stock market d
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging will show all conflicts at once while rebasing will show them one by one.
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my skills in Python and using libraries like NumPy, Pandas, etc. to analyze data and make models.
