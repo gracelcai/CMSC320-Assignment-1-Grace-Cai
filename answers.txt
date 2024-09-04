@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to investing. From previous stock market data, we can predict future stock prices. This will help investors decide what stocks to buy or sell.
