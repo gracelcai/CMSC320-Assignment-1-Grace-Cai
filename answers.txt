@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
 Answer: Git should be used for version control on coding projects to help programmers collaborate with each other. Specifically, it is helpful when engineers are working in parallel and do not want to break each others' code. Even when working individually, git is useful for keep track of individual changes being made so one can revert to a previous version of their code if needed.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to investing. From previous stock market data, we can predict future stock prices. This will help investors decide what stocks to buy or sell.
