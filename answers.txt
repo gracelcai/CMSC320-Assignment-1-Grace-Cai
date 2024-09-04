@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Git should be used for version control on coding projects to help programmers collaborate with each other. Specifically, it is helpful when engineers are working in parallel and do not want to break each others' code. Even when working individually, git is useful for keep track of individual changes being made so one can revert to a previous version of their code if needed.
